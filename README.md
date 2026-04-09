@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="raimasaniyat.png" width="100%" />
+</p>
 # 👋 Hi, I'm Raima Saniyat
 
 ### 🚀 CSE Student | Frontend Developer
